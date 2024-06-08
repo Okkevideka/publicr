@@ -1,7 +1,5 @@
-# publicr
-Hello, This will be the public repository for a new project i am working on.
-The game will be very similar to a title such as Resident Evil.
-This will takes years to develop, no yet release date such as yet.
-Periodic releases will happen.
-Thanks for reading
- - Josiah.
+# Public R, release date: ~2026
+Hello, this project will be for a Resident Evil style game coded in my own game engine using C++.
+I will release a short playable demo around ~2025.
+Please don't except a release date soon, as music and certain sounds will be created by me.
+Thank you for your time.
